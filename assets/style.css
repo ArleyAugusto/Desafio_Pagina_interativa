@@ -19,6 +19,7 @@ html {
 
 body {
     overflow: hidden;
+    cursor: url(rato2.png), auto;
 }
 
 .dark {
@@ -39,7 +40,7 @@ h1 {
     margin-bottom: 10px ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-transform: uppercase; 
-    font-size: 35px;
+
 
 }
 
@@ -53,6 +54,8 @@ button {
     position: fixed;
     top: 10px;
     right: 20px;
+    cursor: url(rato2.png), auto;
+    
 }
 
 button:hover {
