@@ -18,6 +18,7 @@ html {
 }
 
 body {
+    height: 100%;
     overflow: hidden;
     cursor: url(rato2.png), auto;
 }
